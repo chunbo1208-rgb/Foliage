@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Xcode user data and local build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcarchive
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.*
+
+# Local screenshots containing personal library or note data
+/image.png
+/image-*.png

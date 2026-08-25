@@ -1,0 +1,15 @@
+{
+  "originHash" : "6c4662cf9a9a9209aa63fcca4824dd7020f6b5cbdd49c6a661880c2aabb69b94",
+  "pins" : [
+    {
+      "identity" : "swatex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PhraseHQ/SwaTex.git",
+      "state" : {
+        "revision" : "2b38d0b9b9b9466ac1302ab93b37f3b90b8c74fc",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
